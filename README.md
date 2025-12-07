@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is a fork of the original [swiper](https://github.com/wenhoujx/swiper) extension. It has been published to OpenVSX under the `dsalfran` namespace to make it available for Cursor and Antigravity users, as the original repository has been inactive since December 2024.
+
 # swiper
 
 Fuzzy search lines in current window.
@@ -91,7 +94,7 @@ I wrote a [blog](https://medium.com/@wenhoujx/boot-productivity-with-vscode-task
 ## dev guide
 
 ```sh
-# make whatever change, bump package.json 
+# make whatever change, bump package.json
 vsce package
 # then release to the vscode marketplace publish page.
 ```
