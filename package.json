@@ -57,15 +57,15 @@
     "publish:openvsx": "ovsx publish"
   },
   "devDependencies": {
-    "@types/vscode": "^1.74.0",
     "@types/glob": "^8.0.0",
     "@types/mocha": "^10.0.0",
     "@types/node": "16.x",
+    "@types/vscode": "^1.74.0",
+    "@vscode/test-electron": "^2.5.2",
     "eslint": "^8.26.0",
     "glob": "^8.0.3",
     "mocha": "^10.1.0",
-    "typescript": "^4.8.4",
-    "@vscode/test-electron": "^2.2.0",
-    "ovsx": "^0.8.0"
+    "ovsx": "^0.8.0",
+    "typescript": "^4.8.4"
   }
 }

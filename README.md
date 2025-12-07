@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is a fork of the original [swiper](https://github.com/wenhoujx/swiper) extension. It has been published to OpenVSX under the `dsalfran` namespace to make it available for Cursor and Antigravity users, as the original repository has been inactive since December 2024.
+> This is a fork of the original [swiper](https://github.com/wenhoujx/swiper) extension created by **Wenshuai Hou**. It has been published to OpenVSX under the `dsalfran` namespace to make it available for Cursor and Antigravity users, as the original repository has been inactive since December 2024.
 
 # swiper
 
